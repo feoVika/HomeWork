@@ -38,3 +38,7 @@ Console.WriteLine(number);
   {
     Console.WriteLine("Рабочий день");
   }
+  if(number > 7)
+  {
+    Console.WriteLine("Число введено не верно, согласно условию задачи.");
+  }
